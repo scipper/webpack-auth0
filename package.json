@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/scipper/webpack-auth0#readme",
   "devDependencies": {
-    "auth0-js": "9.6.1",
+    "auth0-js": "9.7.0",
     "expose-loader": "0.7.5",
     "fork-ts-checker-webpack-plugin": "^0.4.9",
     "html-loader": "0.5.5",
